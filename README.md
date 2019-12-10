@@ -8,13 +8,13 @@ In python, you need import this lib like,
 from url_request_scheduler import urs_request  
 ```
 and in 'urs_request' you can use 3 main function.  
+- *print_str*, it just for test.
+- *url_request_by_time*
+- *url_request_by_day_period*
 
 
 # Version 0.3
 In version 0.3, only GET method can be handled.  
-- print_str, it just for test.
-- url_request_by_time
-- url_request_by_day_period
 
 
 # Author

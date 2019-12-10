@@ -3,7 +3,14 @@ This module is scheduler for URL request.
 You can use this to call specific urls at regular times or call specific urls at fixed times.
 
 # FOR USING
-In python, you need import this lib like,  
+First, for download this library, use under command  
+```
+pip install url-request-scheduler
+```
+or use this site.  
+https://pypi.org/project/url-request-scheduler/  
+
+And then, in python, you need import this library like,  
 ```
 from url_request_scheduler import urs_request  
 ```
